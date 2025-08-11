@@ -2,8 +2,12 @@
 
 1. Создать Deployment приложения _frontend_ из образа nginx с количеством реплик 3 шт.
 2. Создать Deployment приложения _backend_ из образа multitool. 
+<img width="1066" height="132" alt="image" src="https://github.com/user-attachments/assets/0064661d-1f2b-4932-b75c-e251672764a8" />
+
 3. Добавить Service, которые обеспечат доступ к обоим приложениям внутри кластера. 
 4. Продемонстрировать, что приложения видят друг друга с помощью Service.
+<img width="1351" height="638" alt="image" src="https://github.com/user-attachments/assets/9a84c611-9875-4481-853b-707586f696f9" />
+
 5. Предоставить манифесты Deployment и Service в решении, а также скриншоты или вывод команды п.4.
 
 ------
